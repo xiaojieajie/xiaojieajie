@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaojieajie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" />
+
 ### Hi I'm jiejie 👋
 
 - 😄 my blog www.llongjie.top
 - 💬 blog-github https://github.com/qiheizhiya/myBlog
 - 💬 please multipoint star, thanks!!
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaojieajie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" />
 
 
 
