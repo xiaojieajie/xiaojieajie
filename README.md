@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=xiaojieajie&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=xiaojieajie&show_icons=true&include_all_commits=true&theme=tokyonight &count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 
 ### Hi I'm jiejie 👋
 
