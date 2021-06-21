@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi I'm jiejie 👋
+
+- 😄 my blog www.llongjie.top
+- 💬 blog-github https://github.com/qiheizhiya/myBlog
+- 💬 please multipoint star, thanks!!
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaojieajie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
