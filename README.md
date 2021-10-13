@@ -25,5 +25,5 @@
 
 <div>
   <img height="150em" src="https://github-readme-stats-one-bice.vercel.app/api?username=xiaojieajie&theme=tokyonight&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="xiaojieajie' GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojieajie&layout=compact&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojieajie&layout=compact&theme=radical" />
 </div>
