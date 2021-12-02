@@ -36,6 +36,8 @@ I love coding. ❤️
 
 I love Front End technologys. ❤️
 
+I love play 王者荣耀和英雄联盟(Glory of the king or League of Legends). ❤️
+
 <p>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
