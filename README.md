@@ -7,7 +7,7 @@
 <p>
 
 [![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D66458213)](https://space.bilibili.com/66458213)
-[![Juejin](https://img.shields.io/badge/juejin-%E6%BC%86%E9%BB%91%E4%B9%8B%E7%89%99-1e80ff?logo=bytedance)](https://juejin.cn/user/4010632618185038)
+[![Juejin](https://img.shields.io/badge/juejin-%E6%BC%86%E9%BB%91%E4%B9%8B%E7%89%99-1e80ff?logo=bytedance)](https://juejin.cn/user/4230576477045720)
 [![Github Stars](https://img.shields.io/github/stars/qiheizhiya?color=faf408&label=github%20stars&logo=github)](https://github.com/xiaojieajie)
 
 [![Website](https://img.shields.io/badge/personal%20website-llongjie.top-b860ff?logo=html5&logoColor=white&labelColor=red)](https://llongjie.top)
