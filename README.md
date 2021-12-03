@@ -1,6 +1,6 @@
 <div align=center>
 
-<img alt="Yiyang Sun" src="./assets/avatar2.png" width="90" />
+<img alt="img" src="./assets/avatar2.png" width="90" />
 
 # Hi, this is LongJie 👋
 
