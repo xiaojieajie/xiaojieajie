@@ -1,6 +1,6 @@
 <div align=center>
 
-<img alt="img" src="./assets/avatar2.png" width="50" />
+<!-- <img alt="img" src="./assets/avatar2.png" width="50" /> -->
 
 # Hi, this is LongJie 👋
 
