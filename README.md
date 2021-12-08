@@ -63,14 +63,14 @@ I love play 王者荣耀和英雄联盟(Glory of the king or League of Legends).
 
 </p>
 
-## Projects 💻
+<!-- ## Projects 💻
 
 [![myBlog](https://github-readme-stats.vercel.app/api/pin/?username=qiheizhiya&repo=myBlog)](https://github.com/qiheizhiya/myBlog)
 
 [![designMode](https://github-readme-stats.vercel.app/api/pin/?username=xiaojieajie&repo=designMode)](https://github.com/xiaojieajie/designMode)
 
 [![leetCode](https://github-readme-stats.vercel.app/api/pin/?username=xiaojieajie&repo=leetCode)](https://github.com/xiaojieajie/leetcode)
-
+ -->
 
 ## My Stats &nbsp;🍁 
 
